@@ -54,7 +54,7 @@ class Album extends Component {
           return <span className="ion-play"></span>
       } else if (this.state.isPlaying === true && this.state.currentSong === song) {
           return <span className="ion-pause"></span>
-      } else if (this.state.isPlaying !== true && this.state.currentSong === song && this.state.hoveredSong === index) {
+      } else if (this.state.isPlaying !== true && this.state.currentSong === song && this.state.hoveredSong === false) {
           return <span className="ion-play"></span>
       }
       return index + 1
@@ -87,6 +87,7 @@ class Album extends Component {
 
               <td className="song-list-buttons" >
               <button>
+              <span className="song-number">{index+1}</span>
                 <span className="ion-play"></span>
                 <span className="ion-pause"></span>
                 </button>
