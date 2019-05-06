@@ -161,13 +161,6 @@ class Album extends Component {
                 onMouseEnter = {() => this.hoverOn(index)}
                 onMouseLeave = {() => this.hoverOff()}>
 
-              <td className="song-list-buttons" >
-              <button>
-              <span className="song-number">{index+1}</span>
-                <span className="ion-play"></span>
-                <span className="ion-pause"></span>
-                </button>
-              </td>
 
                <td>  {this.displayIcon(song, index)}</td>
                 <td className="song-title">{song.title}</td>

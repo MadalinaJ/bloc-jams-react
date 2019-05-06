@@ -1,28 +1,58 @@
 .App {
+  margin-top: 0vh;
   text-align: center;
+  color:rgb(205, 79, 83);
+  background:url('../src/images/ameer-basheer-1337277-unsplash.jpg');
+  background-size: cover;
+  font-size: 0.8em;
 }
-
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 40vmin;
   pointer-events: none;
+
+  background-size: 100px 100px;
+  margin-top: 4vh;
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color: rgb(63, 235, 127);
+  min-height: 50vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
+  color: rgb(251, 219, 82);
+
+}
+.land-links {
+
+  text-align: center;
+  align: center;
+
+  color: white;
+}
+.App-link   {
+  color: rgb(94, 128, 168);
+  text-decoration: none;
+}
+a:link {
+  color: rgb(94, 128, 168);
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(94, 128, 168);
+}
+
+a:hover {
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+a:active {
+  color: rgb(94, 128, 168);
 }
-
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -30,4 +60,186 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.landing {
+  margin-top: 0vh;
+  height: 90vh;
+  background:url('../src/images/florian-schneider-710628-unsplash.jpg');
+  background-size: cover;
+  background-position: center;
+
+}
+
+.hero-title{
+  display: flex;
+  position: absolute;
+  margin-left: 39%;
+  align:center;
+  margin-top: 55vh;
+  color:white;
+  font-size: 3em;
+  opacity: 2;
+  resize: both;
+}
+
+.selling-points {
+  display: inline-flex;
+  text-align: center;
+  margin-left: -39vh;
+  margin-top: -2vh;
+  height: 40vh;
+  font-size: 14px;
+  resize: both;
+}
+
+.point1 {
+  display: inline-block;
+  margin-left: 37vh;
+  height: 25vh;
+  width: 24vh;
+  background: url('../src/images/002-music-1.png');
+  background-size: 22%;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+
+}
+.point2 {
+  display: inline-block;
+  float: left;
+  margin-left: 33vh;
+  height: 30vh;
+  width: 24vh;
+  background: url('../src/images/006-listen-1.png');
+  background-size: 22%;
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+.point3 {
+  display: inline-block;
+  float: left;
+  margin-left:31vh;
+  height: 25vh;
+  width: 24vh;
+  background: url('../src/images/010-wifi-1.png');
+  background-size: 22%;
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+.point-title{
+  margin-top: 38px;
+color: rgb(94, 128, 168);
+text-align:center;
+font-size: 1.1em;
+}
+
+.point-description{
+  margin-top: 11vh;
+  margin-left: 1.8vh;
+  color:rgb(205, 79, 83);
+/*color: rgb(237, 86, 30);*/
+font-size: 11px;
+text-align: center;
+width: 20vh;
+}
+.point3 >.point-description{
+  margin-top: 11vh;
+}
+.point1 >.point-description{
+  margin-top: 11vh;
+}
+.point2 >.point-description{
+  text-align: center;
+}
+
+
+.library {
+display: inline-flex;
+height: 90vh;
+width: auto;
+
+}
+
+.library img {
+  display: block;
+  position: relative;
+  margin-top: 15vh;
+  margin-left: 3vh;
+  height: 230px;
+  width: 230px;
+  padding: 70px;
+  opacity: 0.9;
+
+}
+
+
+.library-titles{
+  font-size: 1.2em;
+  position: relative;
+  margin-top: 2vh;
+  text-align: center;
+
+}
+
+.album {
+  color:rgb(94, 128, 168);
+margin-top: 5vh;
+height:87vh;
+cursor: pointer;
+}
+
+.album-details{
+  color:white;
+  opacity: 0.9;
+  font-size: 12px;
+}
+
+
+#album-cover-art{
+  margin-top: 2vh;
+  height: 280px;
+  width: 280px;
+  opacity: 0.8;
+  padding: 3px;
+
+}
+
+#song-list {
+  margin-left: 31.5%;
+  margin-top: 2vh;
+  text-align: center;
+  color:white;
+  font-size: 13px;
+}
+.song {
+  background-color: rgb(47, 43, 59);
+  display: block;
+  text-align: center;
+  margin-top: 1vh;
+  margin-left: 15vh;
+  width: 35vh;
+  opacity: 0.5;
+}
+
+
+.ion-play{
+  padding: 10px;
+}
+.song-title{
+  width: 140px;
+  text-align: center;
+}
+.song-duration{
+  width: 100px;
+  margin-left: 5px;
+}
+
+.player-bar {
+  padding-top: 10px;
+  color: rgb(94, 128, 168);
+  opacity: 0.6;
 }
