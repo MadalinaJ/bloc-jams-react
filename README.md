@@ -1,11 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Acknowledgements
-
+## Credits
 
 Icons made by <a href="https://www.flaticon.com/authors/smashicons">Smashicons</a> from www.flaticon.com
 
-Links to the artists for the photos :  
+Links artists - photos :  
 Photo by <a href="https://unsplash.com/@24ameer"> Ameer Basheer</a> on www.unsplash.com
 
 Photo by <a href="https://unsplash.com/@flotography">Florian Schneider</a> on www.unsplash.com
