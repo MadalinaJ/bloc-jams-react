@@ -1,5 +1,25 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Acknowledgements
+
+
+Icons made by <a href="https://www.flaticon.com/authors/smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" 			    	
+
+Links to the artists for the photos :  
+Photo by <href="https://unsplash.com/@24ameer">Ameer Basheer</a> on Unsplash.com
+
+Photo by <a href="https://unsplash.com/@flotography">Florian Schneider</a> on unsplash.com
+
+## Screenshots
+
+![Landing page fullscreen](public/assets/screenshots/Screen Shot 2019-05-06 at 3.19.05 PM.png)
+
+![Library page fullscreen](public/assets/screenshots/Screen Shot 2019-05-06 at 3.18.28 PM.png)
+
+![Album page fullscreen](public/assets/screenshots/Screen Shot 2019-05-06 at 5.19.12 PM.png)
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
