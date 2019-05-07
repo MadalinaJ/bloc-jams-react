@@ -6,9 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Icons made by <a href="https://www.flaticon.com/authors/smashicons">Smashicons</a> from www.flaticon.com
 
 Links to the artists for the photos :  
-Photo by <a href="https://unsplash.com/@24ameer"> Ameer Basheer</a> on unsplash.com
+Photo by <a href="https://unsplash.com/@24ameer"> Ameer Basheer</a> on www.unsplash.com
 
-Photo by <a href="https://unsplash.com/@flotography">Florian Schneider</a> on unsplash.com
+Photo by <a href="https://unsplash.com/@flotography">Florian Schneider</a> on www.unsplash.com
 
 ## Screenshots
 
