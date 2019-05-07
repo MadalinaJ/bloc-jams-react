@@ -3,12 +3,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Acknowledgements
 
 
-Icons made by <a href="https://www.flaticon.com/authors/smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" </a>			    	
+Icons made by <a href="https://www.flaticon.com/authors/smashicons">Smashicons</a> from www.flaticon.com
 
 Links to the artists for the photos :  
-Photo by <a href="https://unsplash.com/@24ameer"> Ameer Basheer</a> on a href="https://unsplash.com/"></a>
+Photo by <a href="https://unsplash.com/@24ameer"> Ameer Basheer</a> on unsplash.com
 
-Photo by <a href="https://unsplash.com/@flotography">Florian Schneider</a> on <a href="https://unsplash.com/"></a>
+Photo by <a href="https://unsplash.com/@flotography">Florian Schneider</a> on unsplash.com
 
 ## Screenshots
 
