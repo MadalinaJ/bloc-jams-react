@@ -3,20 +3,20 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Acknowledgements
 
 
-Icons made by <a href="https://www.flaticon.com/authors/smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" 			    	
+Icons made by <a href="https://www.flaticon.com/authors/smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" </a>			    	
 
 Links to the artists for the photos :  
-Photo by <href="https://unsplash.com/@24ameer">Ameer Basheer</a> on Unsplash.com
+Photo by <a href="https://unsplash.com/@24ameer"> Ameer Basheer</a> on a href="https://unsplash.com/"></a>
 
-Photo by <a href="https://unsplash.com/@flotography">Florian Schneider</a> on unsplash.com
+Photo by <a href="https://unsplash.com/@flotography">Florian Schneider</a> on <a href="https://unsplash.com/"></a>
 
 ## Screenshots
 
-![Landing page fullscreen](public/assets/screenshots/Screen Shot 2019-05-06 at 3.19.05 PM.png)
+![Landing page fullscreen](https://github.com/MadalinaJ/bloc-jams-react/blob/checkpoint-10-styling/public/assets/screenshots/Screen%20Shot%202019-05-06%20at%203.19.05%20PM.png)
 
-![Library page fullscreen](public/assets/screenshots/Screen Shot 2019-05-06 at 3.18.28 PM.png)
+![Library page fullscreen](https://github.com/MadalinaJ/bloc-jams-react/blob/checkpoint-10-styling/public/assets/screenshots/Screen%20Shot%202019-05-06%20at%203.18.28%20PM.png)
 
-![Album page fullscreen](public/assets/screenshots/Screen Shot 2019-05-06 at 5.19.12 PM.png)
+![Album page fullscreen](https://github.com/MadalinaJ/bloc-jams-react/blob/checkpoint-10-styling/public/assets/screenshots/Screen%20Shot%202019-05-06%20at%205.19.12%20PM.png)
 
 
 
